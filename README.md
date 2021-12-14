@@ -6,3 +6,8 @@
 - Can chat with the connected peoples
 - Search the Users with their information
 - View Profile & Update the profile
+# For this project it must be needed to install android studio on your device
+First you need to download android studio from the link:[android studio][linkk]
+[linkk]: https://developer.android.com/studio
+
+
