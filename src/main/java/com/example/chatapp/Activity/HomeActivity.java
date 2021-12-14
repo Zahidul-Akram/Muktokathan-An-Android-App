@@ -86,7 +86,8 @@ public class HomeActivity extends AppCompatActivity {
 
             @Override
             public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-                searchUsers(charSequence.toString().toLowerCase());
+               String searchText=search_bar.getText().toString();
+               searchUsers(searchText);
 
             }
 
@@ -154,9 +155,11 @@ public class HomeActivity extends AppCompatActivity {
 
     private void searchUsers(String s) {
         FirebaseUser firebaseUser=auth.getCurrentUser();
-        Query query=database.getReference("User").orderByChild("name")
+        Query query=database.getReference("user").orderByChild("name")
                 .startAt(s)
                 .endAt(s+"\uf8ff");
+
+
         query.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
@@ -165,8 +168,7 @@ public class HomeActivity extends AppCompatActivity {
                     Users users=snapshot1.getValue(Users.class);
 
                     if(users.getUid() != null && !users.getUid().equals(firebaseUser.getUid())){
-                        if (users.getName().toLowerCase().contains(s.toLowerCase()) ||
-                                users.getEmail().toLowerCase().contains(s.toLowerCase())) {
+                        if (users.getName().toLowerCase().contains(s.toLowerCase())) {
                             usersArrayList.add(users);
                         }
 
@@ -183,6 +185,7 @@ public class HomeActivity extends AppCompatActivity {
 
             }
         });
+
     }
 
 }
