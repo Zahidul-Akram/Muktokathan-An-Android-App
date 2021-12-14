@@ -24,8 +24,11 @@ sudo snap install android-studio --classic
 ### Splash Screen
 
 <img src="https://user-images.githubusercontent.com/38868703/145959606-d9066f5d-3290-4515-a4ff-4e66521240aa.jpg" width="200" height="400" />
+
 ### Log in
+
 <img src="https://user-images.githubusercontent.com/38868703/145959622-fc8c1297-4d15-4b74-a620-c48725b5d544.jpg" width="200" height="400" />
+
 ### Register
 
 <img src="https://user-images.githubusercontent.com/38868703/145959636-f5df476a-ee2b-48dd-ae63-71e24ce76614.jpg" width="200" height="400" />
@@ -33,9 +36,11 @@ sudo snap install android-studio --classic
 ### Users and Search Users
 
 <img src="https://user-images.githubusercontent.com/38868703/145959660-cc688470-1f5b-432a-88f6-f3eec48199f0" width="200" height="400" />
+
 ### Chat page
 
 <img src="https://user-images.githubusercontent.com/38868703/145959673-2fa01f57-bf0c-4be4-b7f6-e3284297f1fa" width="200" height="400" />
+
 ### Profile
 
 <img src="https://user-images.githubusercontent.com/38868703/145959682-b21de24b-567a-4913-9948-e753a48db6fc.jpg" width="200" height="400" />
