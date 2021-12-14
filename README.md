@@ -35,7 +35,7 @@ sudo snap install android-studio --classic
 
 ### Users and Search Users
 
-<img src="https://user-images.githubusercontent.com/38868703/145959660-cc688470-1f5b-432a-88f6-f3eec48199f0" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/38868703/145963146-2ca28f82-386e-4cd4-8560-2d97e7176196.jpg" width="200" height="400" />
 
 ### Chat page
 
