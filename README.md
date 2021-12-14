@@ -23,7 +23,7 @@ sudo snap install android-studio --classic
 
 ### Splash Screen
 
-<img src="https://user-images.githubusercontent.com/38868703/145959606-d9066f5d-3290-4515-a4ff-4e66521240aa.jpg" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/38868703/145959606-d9066f5d-3290-4515-a4ff-4e66521240aa.jpg" width="200" height="400" />
 ### Log in
 ![1639461172809](https://user-images.githubusercontent.com/38868703/145959622-fc8c1297-4d15-4b74-a620-c48725b5d544.jpg =250X250)
 ### Register
