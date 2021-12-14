@@ -39,7 +39,7 @@ sudo snap install android-studio --classic
 
 ### Chat page
 
-<img src="https://user-images.githubusercontent.com/38868703/145959673-2fa01f57-bf0c-4be4-b7f6-e3284297f1fa" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/38868703/145962988-1eb2df31-a812-4fa1-a5e3-67e39a222db0.jpg" width="200" height="400" />
 
 ### Profile
 
