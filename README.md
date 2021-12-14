@@ -7,7 +7,12 @@
 - Search the Users with their information
 - View Profile & Update the profile
 # For this project it must be needed to install android studio on your device
-First you need to download android studio from the link:[android studio][linkk][]
-[linkk]: https://developer.android.com/studio
+First you need to download android studio from the link:[android studio]:https://developer.android.com/studio
+Then put the following command in ubuntu 20.04:
+~~~
+snap find "android-studio"
+sudo snap install android-studio --classic
+~~~
+
 
 
