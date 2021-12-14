@@ -18,6 +18,7 @@ sudo snap install android-studio --classic
 ## Add the Src folder in android studio
 - add AndroidManifest.xml file 
 - And build.gradle file for all dependencies
+## Connect with Firebase with dependencies
 
 ## Important Screenshots to know the usage
 
