@@ -19,7 +19,7 @@ sudo snap install android-studio --classic
 - add AndroidManifest.xml file 
 - And build.gradle file for all dependencies
 
-## Important Screenshots
+## Important Screenshots to know the usage
 
 ### Splash Screen , Log in , Register , Users and Search Users , Chat page , Profile
 
